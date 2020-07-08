@@ -1,5 +1,11 @@
 {
   'use strict';
+   /*
+    -- INSRALL GULP --
+    npm init
+    sudo npm i -g gulp-cli
+    npm i -D gulp gulp-sass browser-sync
+  */
 
   const gulp = require('gulp');
   const sass = require('gulp-sass');
